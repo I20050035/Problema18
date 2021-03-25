@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\bin\Debug\Problema 18.exe.config
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\bin\Debug\Problema 18.exe
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\bin\Debug\Problema 18.pdb
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema 18.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema_18.Form1.resources
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema_18.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema 18.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema 18.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema 18.exe
+C:\Users\Usuario\source\repos\Problema 18\Problema 18\obj\Debug\Problema 18.pdb
